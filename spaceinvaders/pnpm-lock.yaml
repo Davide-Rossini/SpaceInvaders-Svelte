@@ -468,7 +468,6 @@ packages:
     resolution: {integrity: sha512-HJ96Hev2hX/6i5cDVwcqiJBBtuo9+FeIJOtZ9W1kA5M6AMJRHUZlpYZ1/SbEwtO0ioNAW8rUooVpC/WehY2SfA==}
     engines: {node: '>=12'}
     hasBin: true
-    requiresBuild: true
     optionalDependencies:
       '@esbuild/aix-ppc64': 0.19.11
       '@esbuild/android-arm': 0.19.11

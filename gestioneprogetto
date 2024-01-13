@@ -1,0 +1,8 @@
+src/
+├── components/
+│   ├── Game.svelte
+│   ├── Player.svelte
+│   ├── Enemy.svelte
+│   └── Bullet.svelte
+├── App.svelte
+└── main.js
